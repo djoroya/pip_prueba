@@ -1,0 +1,2 @@
+def operator():
+    return "operator"
